@@ -1,0 +1,15 @@
+{
+    "name": "zozo/exercise_1",
+    "autoload": {
+        "psr-4": {
+            "Zozo\\Exercise1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alonitasarah",
+            "email": "zozoalonita@gmail.com"
+        }
+    ],
+    "require": {}
+}
